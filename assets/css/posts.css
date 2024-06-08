@@ -1,0 +1,34 @@
+article{
+    width: 30%;
+    margin: 0 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+img{
+    width: 100%;
+}
+main{
+    width: 70%;
+    padding: auto;
+    display: flex;
+    margin: 100px auto;
+}
+#name{
+    color: rgba(59, 59, 59, 0.715);
+    font-size: 8px;
+}
+strong{
+    color: rgba(0, 0, 0, 0.629);
+}
+.title{
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+}
+p{
+    color: rgba(0, 0, 0, 0.662);
+}
+@media screen and (max-width:600px) {
+    
+}
